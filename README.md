@@ -23,7 +23,7 @@ L’objectif est de **recenser et identifier les ressources numériques** de l�
 
 ## Licence
 Distribué sous licence MIT.  
-Voir le fichier LICENCE pour plus de détails.
+Voir le fichier `LICENCE` pour plus de détails.
 
 ---
 
