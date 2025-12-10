@@ -3,7 +3,7 @@
 ## Description
 Ce document décrit les étapes d’installation de GLPI pour le projet MDF (Sales and Marketing).
 
-## Téléchargement
+## Téléchargements
 Télécharger WampServer : https://www.wampserver.com
 Télécharger les packages Microsoft Visual C++ : https://wampserver.aviatechno.net
 Télécharger GLPI depuis le site officiel : https://glpi-project.org  
