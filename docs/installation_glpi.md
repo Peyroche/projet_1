@@ -24,8 +24,8 @@ Version utilisée : GLPI 10.0.x
 Voici les actions urgentes à effectuer pour sécuriser glpi :
 - Modifier le mot de passe par défaut : GLPI crée automatiquement des comptes (administrateur, technicien, utilisateur standard, utilisateur limité) avec des mots de passes standards (glpi, tech, normal, post-only).
 - Supprimer le fichier install/install.php : Ce fichier permet de relancer l'installation. Il doit être supprimé manuellement dans le repertoire glpi.
-- Sécuriser le dossier racine du serveur web : GLPI signale que le serveur permet l'accès à des fichiers publics. Pour corriger cela, on s'oriente vers le répertoire wamp64/www/glpi/src/system/requirement/SafeDocumentRoot puis on ajoute dans ce fichier " return; ".
+- Sécuriser le dossier racine du serveur web : GLPI signale que le serveur permet l'accès à des fichiers publics. Pour corriger cela, on s'oriente vers le répertoire `wamp64/www/glpi/src/system/requirement/SafeDocumentRoot` puis on ajoute dans ce fichier " return; ".
 -Activer la directive PHP session.cookie_httponly : Cette directive empèche les scripts Javascript d'accéder aux cookies de session. Dans le  fichier Php.ini, ajouter ou modifier
-session.cookie_httponly = 1.
+`session.cookie_httponly = 1`.
 
 
