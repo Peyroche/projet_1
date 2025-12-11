@@ -1,6 +1,6 @@
-# Projet 1 : Inventaire numérique du parc informatique fictif de MDF (Sales and Marketing)
+# Projet 1 : Inventaire numérique du parc informatique fictif MDF
 
-## 📑 Contexte
+## Contexte
 MDF (Sales and Marketing) est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client.  
 
 Dans le cadre de ce projet fictif, un inventaire numérique du parc informatique de MDF a été réalisé à l’aide de **GLPI (Gestionnaire Libre de Parc Informatique)**.
