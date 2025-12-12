@@ -1,16 +1,23 @@
-# Projet 1 : Inventaire numérique du parc informatique fictif MDF
+# Projet 1 : Gestion du parc informatique
 
 ## Contexte
 MDF (Sales and Marketing) est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client.  
 
-Dans le cadre de ce projet fictif, un inventaire numérique du parc informatique de MDF a été réalisé à l’aide de **GLPI (Gestionnaire Libre de Parc Informatique)**.
+Dans le cadre de ce projet fictif, une gestion du parc informatique de MDF a été réalisé.
 
-L’objectif est de **recenser et identifier les ressources numériques** de l’entreprise (matériels, logiciels, licences) à l’aide de **GLPI (Gestionnaire Libre de Parc Informatique)**.
+---
+
+## Listes de missions pour la gestion du parc informatique
+Gérer les tickets de niveau 1 notamment :
+- Inventaire du parc informatique
+- Gestion des habilitations d'accès utilisateurs active directory avec GLPI
+- Gestion des tickets incidents avec GLPI
+- Sauvegarder le serveur Windows Active Directory vers Azure Backup.
 
 ---
 
 ## Contenu
-- `docs/` : inventaire_hadware.md, inventaire_software.md, licences_comparatif.md
+- `docs/` : inventaire_hadware.md, inventaire_software.md, licences_comparatif.md, gestion_des_habilitation.md, gestion_des_tickets.md, sauvegarde_serveur.md
 
 ---
 
