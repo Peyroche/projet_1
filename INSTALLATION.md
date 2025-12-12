@@ -29,17 +29,17 @@ Version utilisée : GLPI 10.0.x
 - Décompresser et importer les fichiers GLPI dans `/wamp64/www/glpi`.
 - Accéder à `http://localhost/glpi`.
 
-![Ajout](images/connexion_1.png)
+<img src="images/connexion_1.png" alt="Ajout du mot" width="50">
 
-![Ajout](images/connexion_2.png)
+<img src="images/connexion_2.png" alt="Ajout du mot" width="50">
 
 - Connexion à glpi (identifiant : glpi, mot de passe : glpi).
 
-![Ajout](images/glpi_1.png)
+<img src="images/glpi_1.png" alt="Ajout du mot" width="50">
 
 - Affichage du tableau de bord glpi.
 
-![Ajout](images/glpi_2.png)
+<img src="images/glpi_2.png" alt="Ajout du mot" width="50">
 
 ## Post installation
 Voici les actions urgentes à effectuer pour sécuriser glpi :
@@ -47,13 +47,14 @@ Voici les actions urgentes à effectuer pour sécuriser glpi :
 - Supprimer le fichier install/install.php dans le répertoire glpi.
 - Sécuriser le dossier racine du serveur web : GLPI signale que le serveur permet l'accès à des fichiers publics. Pour corriger cela, on s'oriente vers le répertoire `wamp64/www/glpi/src/system/requirement/SafeDocumentRoot` puis on ajoute dans ce fichier `return;`.
 
-![Ajout](images/ajout.png)
+<img src="images/ajout.png" alt="Ajout du mot" width="50">
+
 
 - Activer la directive PHP session.cookie_httponly : Cette directive empèche les scripts Javascript d'accéder aux cookies de session. Dans le  fichier Php.ini, ajouter ou modifier
 `session.cookie_httponly = 1`.
 - Redémarrer WampServer pour appliquer les changements.
 
-![Ajout](images/glpi_3.png)
+<img src="images/glpi_3.png" alt="Ajout du mot" width="50">
 
 
 
