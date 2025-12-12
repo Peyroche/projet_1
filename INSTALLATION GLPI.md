@@ -17,7 +17,7 @@ Ce document décrit les étapes d’installation de GLPI pour le projet MDF.
 
 ![Ajout](images/base_1.png)
 
-- Créer une base de données `glpi_db`.
+- Créer une base de données `glpi`.
 
 ![Ajout](images/base_2.png)
 
