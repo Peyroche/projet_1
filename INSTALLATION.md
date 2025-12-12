@@ -1,7 +1,7 @@
 # Installation de GLPI avec WampServer
 
 ## Description
-Ce document décrit les étapes d’installation de GLPI pour le projet MDF.
+Ce document décrit les étapes d’installation de glpi pour le projet MDF.
 
 ## Télécharger et installer WampServer
 - Télécharger WampServer : https://www.wampserver.com
