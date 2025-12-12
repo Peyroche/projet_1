@@ -21,8 +21,6 @@ Ce document décrit les étapes d’installation de GLPI pour le projet MDF.
 
 ![Ajout](images/base_2.png)
 
-- Créer un utilisateur `glpi_user` avec mot de passe.
-
 ## Télécharger GLPI
 - Télécharger GLPI depuis le site officiel : https://glpi-project.org  
 Version utilisée : GLPI 10.0.x
