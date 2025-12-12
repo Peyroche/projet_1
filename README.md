@@ -1,9 +1,8 @@
 # Projet 1 : Gestion du parc informatique
 
 ## Contexte
+Dans le cadre de ce projet fictif, une gestion du parc informatique a été réalisé pour l'entreprise MDF.
 MDF (Sales and Marketing) est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client.  
-
-Dans le cadre de ce projet fictif, une gestion du parc informatique de MDF a été réalisé.
 
 ---
 
@@ -17,7 +16,7 @@ Gérer les tickets de niveau 1 notamment :
 ---
 
 ## Contenu
-- `docs/` : inventaire_hadware.md, inventaire_software.md, licences_comparatif.md, gestion_des_habilitation.md, gestion_des_tickets.md, sauvegarde_serveur.md
+- `docs/` : inventaire_hadware.md, inventaire_software.md, licences_comparatif.md, inventaire_des_habilitations.md, gestion_des_tickets.md, sauvegarde_serveur.md
 
 ---
 
