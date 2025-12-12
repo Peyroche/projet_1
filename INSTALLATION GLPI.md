@@ -37,6 +37,8 @@ Version utilisée : GLPI 10.0.x
 
 ![Ajout](images/glpi_1.png)
 
+- Affichage du tableau de bord glpi.
+
 ![Ajout](images/glpi_2.png)
 
 ## Post installation
