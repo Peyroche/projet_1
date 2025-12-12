@@ -1,7 +1,8 @@
 # Inventaire des habilitations (AD ↔ GLPI)
 
 Ce document décrit les groupes Active Directory utilisés pour la gestion des habilitations,
-ainsi que leur correspondance avec les profils GLPI. Il inclut également des utilisateurs pour simuler un environnement professionnel.
+ainsi que leur correspondance avec les profils GLPI.
+Il inclut également des utilisateurs pour simuler un environnement professionnel.
 
 ---
 
