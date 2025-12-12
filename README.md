@@ -10,7 +10,7 @@ L’objectif est de **recenser et identifier les ressources numériques** de l�
 ---
 
 ## Contenu
-- `docs/` : installation_glpi.md, inventaire_hadware.md, inventaire_software.md, licences_comparatif.md
+- `docs/` : inventaire_hadware.md, inventaire_software.md, licences_comparatif.md
 
 ---
 
@@ -18,6 +18,11 @@ L’objectif est de **recenser et identifier les ressources numériques** de l�
 - GLPI 10.x pour la gestion de la CMDB
 - MySQL pour la base de données
 - Markdown pour la documentation
+
+---
+
+## Installation de GLPI
+Voir le fichier `INSTALLATION` pour plus de détails.
 
 ---
 

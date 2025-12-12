@@ -3,17 +3,17 @@
 ## Description
 Ce document décrit les étapes d’installation de GLPI pour le projet MDF.
 
-## Télécharger et installer Serveur
+## Télécharger et installer WampServer
 - Télécharger WampServer : https://www.wampserver.com
 - Installation sur Windows et choix du répertoire (par défaut c:\wamp64) 
 - Télécharger les packages Microsoft Visual C++ : https://wampserver.aviatechno.net
 
 ## Configuration base de donnée
-- Démarrer WampServer
+- Démarrer WampServer.
 
 ![Ajout](images/wampserver.png)
 
-- Accéder à `http://localhost/Phpmyadmin`
+- Accéder à `http://localhost/Phpmyadmin`.
 
 ![Ajout](images/base_1.png)
 
