@@ -1,8 +1,7 @@
 # Inventaire des habilitations (AD ↔ GLPI)
 
 Ce document décrit les groupes Active Directory utilisés pour la gestion des habilitations,
-ainsi que leur correspondance avec les profils GLPI. Il inclut également des exemples
-d’utilisateurs types pour simuler un environnement professionnel.
+ainsi que leur correspondance avec les profils GLPI. Il inclut également des utilisateurs pour simuler un environnement professionnel.
 
 ---
 
@@ -19,11 +18,11 @@ d’utilisateurs types pour simuler un environnement professionnel.
 
 ---
 
-## 👤 Utilisateurs types
+## 👤 Utilisateurs
 
-| Utilisateur      | Rôle                     | Groupe(s) AD        | Exemple d’usage                                      |
+| Utilisateur      | Rôle                     | Groupe(s) AD        | usage                                                |
 |------------------|--------------------------|---------------------|------------------------------------------------------|
-| Pierre Dupont    | Administrateur Systèmes  | GLPI_Admins         | Configure GLPI, gère AD et sauvegardes               |
+| Alfred Benoit    | Administrateur Systèmes  | GLPI_Admins         | Configure GLPI, gère AD et sauvegardes               |
 | Sophie Martin    | Technicien N1            | GLPI_Tech_N1        | Réinitialise mots de passe, installe logiciels       |
 | Karim Benali     | Technicien N2            | GLPI_Tech_N2        | Résout incidents réseau, escalade vers N3            |
 | Julie Robert     | Utilisatrice métier      | GLPI_Users          | Déclare un ticket via portail GLPI                   |
