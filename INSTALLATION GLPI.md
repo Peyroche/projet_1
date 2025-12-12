@@ -26,7 +26,7 @@ Voici les actions urgentes à effectuer pour sécuriser glpi :
 - Supprimer le fichier install/install.php dans le répertoire glpi.
 - Sécuriser le dossier racine du serveur web : GLPI signale que le serveur permet l'accès à des fichiers publics. Pour corriger cela, on s'oriente vers le répertoire `wamp64/www/glpi/src/system/requirement/SafeDocumentRoot` puis on ajoute dans ce fichier `return;`.
 
-![Ajout du mot](docs/imags/ajout.png)
+![Ajout du mot](docs/images/ajout.png)
 
 - Activer la directive PHP session.cookie_httponly : Cette directive empèche les scripts Javascript d'accéder aux cookies de session. Dans le  fichier Php.ini, ajouter ou modifier
 `session.cookie_httponly = 1`.
