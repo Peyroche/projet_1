@@ -40,14 +40,12 @@ Ce document décrit les étapes d’installation de glpi pour le projet MDF.
 Voici les actions urgentes à effectuer pour sécuriser glpi :
 - Modifier le mot de passe par défaut : GLPI crée automatiquement des comptes (administrateur, technicien, utilisateur standard, utilisateur limité) avec des mots de passes standards (glpi, tech, normal, post-only).
 - Supprimer le fichier install/install.php dans le répertoire glpi.
-- Redémarrer WampServer pour appliquer les changements.
 
 ## Télécharger et installer plugins (OCS Inventory NG, Fusion Inventory Version)
 - Télécharger OCS Inventory NG sur GitHub : https://github.com/fusioninventory/fusioninventory-for-glpi/releases
 - Télécharger Fusion Inventory sur GitHub : https://github.com/pluginsGLPI/ocsinventoryng/releases/tag/2.0.5
 - Décompresser et importer les fichiers plugins dans `/wamp64/www/glpi/plugins`.
 - Installer les plugins sur GLPI.
-- Redémarrer WampServer pour appliquer les changements.
 
 ![Ajout](images/plugins.png)
 
