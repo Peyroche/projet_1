@@ -1,4 +1,4 @@
-# Projet 1 : Gestion du parc informatique
+# Projet 1 : Gestion du parc informatique MDF
 
 ## Contexte
 Dans le cadre d'un projet fictif, une gestion du parc informatique a été réalisé pour la société MDF. MDF (Sales and Marketing) est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client.  
@@ -14,11 +14,11 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 
 ## Organisation :
 
-- Chef de projet
+1. Chef de projet
 
-Rôle principal : assurer la coordination générale du projet.
+- Rôle principal : assurer la coordination générale du projet.
 
-Responsabilités :
+- Responsabilités :
 
 Planifier les tâches et répartir le travail entre les équipes.
 
@@ -29,11 +29,12 @@ Garantir la cohérence entre les objectifs, les délais et les ressources.
 Servir de point de contact avec la direction ou les clients.
 
 
-- Équipe technique
 
-Rôle principal : gérer les aspects opérationnels et techniques.
+2. Équipe technique
 
-Responsabilités :
+- Rôle principal : gérer les aspects opérationnels et techniques.
+
+- Responsabilités :
 
 Réaliser l’inventaire (matériel, logiciels, configurations).
 
@@ -44,11 +45,12 @@ Traiter les tickets techniques (incidents, demandes d’évolution).
 Assurer la maintenance et la mise à jour des systèmes.
 
 
-- Équipe support
 
-Rôle principal : être l’interface avec les utilisateurs finaux.
+3. Équipe support
 
-Responsabilités :
+- Rôle principal : être l’interface avec les utilisateurs finaux.
+
+- Responsabilités :
 
 Suivre les incidents signalés par les utilisateurs.
 
@@ -60,11 +62,4 @@ Remonter les problèmes récurrents à l’équipe technique ou au chef de proje
 
 ---
 
-## Licence
-
 Copyright (c) 2025 FOUNA Peyroche Mercier De-Dieu
-
-La permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "projet_1"), de traiter dans le projet sans restriction, y compris sans limitation les droits d'utiliser, copier, modifier, fusionner, publier, distribuer, sous‑licencier, et/ou vendre des copies du Projet, et de permettre aux personnes à qui le projet est fourni de le faire, sous réserve des conditions suivantes : La mention de copyright ci‑dessus et la présente permission doivent être incluses
-dans toutes les copies ou parties substantielles du projet.
-
-Le projet est fourni tel quel, sans garantie d'aucune sorte, expresse ou implicite, y compris mais sans s'y limiter aux garanties de qualité marchande, d'adéquation à un usage particulier et de non contrefaçon. En aucun cas les auteurs ou détenteurs du copyright ne pourront être tenus responsables de toute réclamation, dommage ou autres responsabilités, que ce soit dans une action en responsabilité contractuelle, délictuelle ou autre, résultant de, ou en rapport avec le projet ou l'utilisation ou d'autres interactions avec le projet.
