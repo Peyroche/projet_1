@@ -34,7 +34,7 @@ Ce document décrit les étapes d’installation de glpi pour le projet MDF.
 
 - Affichage du tableau de bord glpi.
 
-![Ajout](images/glpi_2.png)
+![Ajout](images/glpi.png)
 
 ## Post installation
 Voici les actions urgentes à effectuer pour sécuriser glpi :
