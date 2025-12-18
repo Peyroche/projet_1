@@ -24,6 +24,8 @@ Ce document décrit les étapes d’installation de glpi pour le projet MDF.
 
 ![Ajout](images/base_2.png)
 
+- Créer une base de données `ocs`.
+
 ## Télécharger et installer GLPI
 - Télécharger GLPI depuis le site officiel : https://www.glpi-project.org/en/new-version-glpi-10-0-6/  
 - Décompresser et importer les fichiers GLPI dans `/wamp64/www/glpi`.
