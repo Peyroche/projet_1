@@ -12,7 +12,7 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 - Suivre et résoudre les incidents avec GLPI,
 - Assurer la sauvegarde régulière sur Azure.
 
-## Schéma de l'organisation :
+## Schéma de l'organisation 
 
 ![Ajout](images/Schema.png)
 
@@ -21,7 +21,7 @@ Le schéma de l'organisation illustre les interactions :
 - L’équipe support transmet les problèmes récurrents à l’équipe technique.
 - Le chef de projet coordonne l’ensemble et assure le lien avec la direction.
 
-## Organisation :
+## Organisation 
 
 1. Employés MDF
 
