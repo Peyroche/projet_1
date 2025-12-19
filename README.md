@@ -14,9 +14,9 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 
 ## Schéma de l'organisation :
 
-![Ajout](images/Schéma.png)
+![Ajout](images/Schema.png)
 
-Le schéma illustrent les interactions :
+Le schéma de l'organisation illustre les interactions :
 - Les employés remontent leurs besoins/incidents vers l’équipe support.
 - L’équipe support transmet les problèmes récurrents à l’équipe technique.
 - Le chef de projet coordonne l’ensemble et assure le lien avec la direction.
@@ -29,7 +29,7 @@ Le schéma illustrent les interactions :
 |-------------------------|-----------------------------------------------------------------------------------------|
 |Commercial terrain       |Prospection, vente directe, animation de points de vente, reporting d’activité           | 
 |Responsable marketing    |Élaboration de campagnes, analyse de marché, coordination avec les équipes commerciales  |                                                                            
-|Customer Success         |Suivi client, résolution de problèmes, fidélisation, support post-vente                  |                                                                     |
+|Customer Success         |Suivi client, résolution de problèmes, fidélisation, support post-vente                  |                                                                     
 |Stagiaire marketing      |Soutien aux campagnes, création de contenus, veille concurrentielle                      |
 |Développeur full stack   |Maintenance des outils internes, développement d’applications web                        |
 
