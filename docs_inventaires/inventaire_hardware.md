@@ -10,7 +10,6 @@ Chaque fiche est formatée pour être compatible avec GLPI et audit‑ready.
 
 | Fabricant | Modèle           | OS installé                 | CPU            | RAM     | Stockage | Localisation | État       |
 |-----------|------------------|-----------------------------|----------------|---------|----------|--------------|------------|
-| Dell      | PowerEdge R740   | Ubuntu Server 22 et ESXi    | 2x Xeon Silver | 64 Go   | 2x 1 To  | Bureau Paris | En service |
 | HP        | ProLiant DL380   | Windows Server 2019 et ESXi | 2x Xeon Gold   | 128 Go  | 4x 2 To  | Bureau Paris | En service |
 
 ---
