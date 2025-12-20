@@ -12,14 +12,29 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 - Suivre et résoudre les incidents avec GLPI,
 - Assurer la sauvegarde régulière sur Azure.
 
-## Schéma de l'organisation 
+## Arborescence de l'organisation
 
-![Ajout](images/Schema.png)
+Direction Générale
+│
+├── Audit Interne (fonction indépendante)
+│
+└── Employés MDF
+     ├── Chef de projet
+     ├── Équipe technique
+     │    ├── Administrateur système
+     │    ├── Technicien N2
+     │    └── Responsable licences
+     ├── Équipe support
+     │    ├── Technicien N1
+     │    
+     └── Utilisateurs métier
 
 Le schéma de l'organisation illustre les interactions :
-- Les employés remontent leurs besoins/incidents vers l’équipe support.
+- Les utilisateurs métier remontent leurs besoins/incidents vers l’équipe support.
 - L’équipe support transmet les problèmes récurrents à l’équipe technique.
 - Le chef de projet coordonne l’ensemble et assure le lien avec la direction.
+- L'audit interne évalue objectivement les pratiques, contrôle les risques, vérifie la conformité, pointe les failles sans conflit d’intérêt.
+- La direction générale est le centre de pilotage de l’organisation.
 
 ## Organisation 
 
