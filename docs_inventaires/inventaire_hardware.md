@@ -12,8 +12,6 @@ Chaque fiche est formatée pour être compatible avec GLPI et audit‑ready.
 |-----------|------------------|------------------|----------------|-------|----------|--------------|------------|
 | Dell      | PowerEdge R740   | Ubuntu Server 22 | 2x Xeon Silver | 64 Go | 2x 1 To  | Datacenter A | En service |
 | HP        | ProLiant DL380   | Windows Server 2019 | 2x Xeon Gold | 128 Go | 4x 2 To  | Datacenter B | En service |
-| Lenovo    | ThinkSystem SR650| VMware ESXi 7    | 2x Xeon Silver | 96 Go | 2x 1 To  | Datacenter A | En service |
-| Synology  | NAS DS920+       | DSM 7.2          | Intel Celeron  | 8 Go  | 4x 4 To  | Bureau Paris | En service |
 
 ---
 
