@@ -8,22 +8,11 @@ Il permet de clarifier les différences entre logiciels propriétaires, SaaS et 
 
 ## Tableau comparatif des licences
 
-| Éditeur     | Produit             | Type de licence       | Mode de distribution | Durée / Renouvellement | Avantages | Inconvénients |
-|-------------|--------------------|-----------------------|----------------------|------------------------|-----------|---------------|
+| Éditeur     | Produit             | Type de licence       | Mode de distribution | Durée / Renouvellement            | Avantages                   | Inconvénients   |
+|-------------|-------------------- |-----------------------|----------------------|-----------------------------------|-----------------------------|-----------------|
 | Microsoft   | Windows Server 2019 | Licence volume        | On-premise           | Achat unique + Software Assurance | Support officiel, stabilité | Coût élevé, dépendance éditeur |
-| Canonical   | Ubuntu Server 22.04 | Open source (GPL)     | Téléchargement libre | Gratuit, mises à jour régulières | Flexibilité, communauté active | Support payant optionnel |
-| VMware      | ESXi 7.0            | Licence commerciale   | On-premise           | Abonnement annuel      | Virtualisation robuste | Coût élevé, renouvellement obligatoire |
-| Adobe       | Creative Cloud 2025 | SaaS abonnement       | Cloud                | Mensuel / Annuel       | Toujours à jour, accès multi-apps | Dépendance Internet, coût récurrent |
-| LibreOffice | LibreOffice Suite   | Open source (LGPL)    | Téléchargement libre | Gratuit, mises à jour régulières | Gratuit, communauté active | Moins de fonctionnalités avancées |
-| Slack       | Slack Standard      | SaaS abonnement       | Cloud                | Mensuel / Annuel       | Collaboration efficace | Dépendance Internet, coût par utilisateur |
-
----
-
-## Analyse
-
-- **Propriétaire (Microsoft, VMware)** : stabilité et support officiel, mais coût élevé et dépendance forte.
-- **SaaS (Adobe, Slack, Office 365)** : flexibilité et mises à jour automatiques, mais coût récurrent et dépendance au cloud.
-- **Open source (Ubuntu, LibreOffice, GIMP)** : gratuité et liberté d’usage, mais support communautaire et parfois moins de fonctionnalités.
+| VMware      | ESXi 7.0            | Licence commerciale   | On-premise           | Abonnement annuel                 | Virtualisation robuste   | Coût élevé, renouvellement obligatoire |
+| Microsoft   | Office 365          | Licence volume        | On-premise           | Abonnement mensuel ou annuel      | Accès instantané | Coût élevé, renouvellement obligatoire |
 
 ---
 
