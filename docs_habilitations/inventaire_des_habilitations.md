@@ -7,7 +7,7 @@ ainsi que leur correspondance avec les profils GLPI.
 
 ## 👥 Groupes Active Directory
 
-| Groupe AD        | Description                                                   | Mapping GLPI        |
+| Groupes AD       | Descriptions                                                  | Mapping GLPI        |
 |------------------|---------------------------------------------------------------|---------------------|
 | GLPI_Admins      | Administrateurs du parc, droits complets sur GLPI et AD       | Super-Admin         |
 | GLPI_Tech_N1     | Techniciens support niveau 1 (tickets simples, comptes, apps) | Technicien          |
@@ -20,7 +20,7 @@ ainsi que leur correspondance avec les profils GLPI.
 
 ## 👤 Utilisateurs
  
-| Utilisateurs     | Rôle                     | Organisation            | Groupe(s) AD            | Usage                                          |
+| Utilisateurs     | Rôles                    | Organisation            | Groupe(s) AD            | Usages                                         |
 |------------------|--------------------------|-------------------------|-------------------------|------------------------------------------------|
 | Alfred Benoit    | Administrateur Systèmes  | Equipe technique        | GLPI_Admins             | Configure GLPI, gère AD et sauvegardes         |
 | Sophie Martin    | Technicien N1            | Equipe support          | GLPI_Tech_N1            | Réinitialise mots de passe, installe logiciels |

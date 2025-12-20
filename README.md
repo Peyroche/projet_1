@@ -26,10 +26,10 @@ Direction Générale
      │    └── Responsable licences
      ├── Équipe support
      │    ├── Technicien N1
-     │    
+     │  
      └── Utilisateurs métier
 
-Le schéma de l'organisation illustre les interactions :
+Le schéma de l'organisation illustre les interactions suivantes :
 - Les utilisateurs métier remontent leurs besoins/incidents vers l’équipe support.
 - L’équipe support transmet les problèmes récurrents à l’équipe technique.
 - Le chef de projet coordonne l’ensemble et assure le lien avec la direction.
