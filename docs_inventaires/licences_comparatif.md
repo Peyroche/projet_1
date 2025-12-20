@@ -2,7 +2,6 @@
 
 ## Description
 Ce document présente un comparatif des principaux modèles de licences utilisés dans l’environnement MDF.  
-Il permet de clarifier les différences entre logiciels propriétaires, SaaS et open source, et d’assurer la conformité.
 
 ---
 
