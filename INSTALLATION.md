@@ -47,7 +47,7 @@ Voici les actions urgentes à effectuer pour sécuriser glpi :
 - Télécharger OCS Inventory NG sur GitHub : https://github.com/fusioninventory/fusioninventory-for-glpi/releases
 - Télécharger Fusion Inventory sur GitHub : https://github.com/pluginsGLPI/ocsinventoryng/releases/tag/2.0.5
 - Décompresser et importer les fichiers plugins dans `/wamp64/www/glpi/plugins`.
-- Installer les plugins sur GLPI.
+- Installer et activer les plugins sur GLPI.
 
 ![Ajout](images/plugins.png)
 
