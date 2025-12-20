@@ -8,11 +8,11 @@ Chaque fiche inclut les informations essentielles : éditeur, version, type de l
 
 ## Systèmes d’exploitation
 
-| Éditeur     | Produit             | Version         | Type de licence | Nb. licences | Conformité | Notes |
-|-------------|--------------------|-----------------|-----------------|--------------|------------|-------|
-| Microsoft   | Windows Server      | 2019 Datacenter | Licence volume  | 5            | ✅ Conforme | Utilisé sur serveurs HP |
-| Canonical   | Ubuntu Server       | 22.04 LTS       | Open source GPL | N/A          | ✅ Conforme | Utilisé sur serveurs Dell |
-| VMware      | ESXi                | 7.0             | Licence commerciale | 3        | ⚠️ À renouveler | Serveurs Lenovo |
+| Éditeur     | Produit          | Version        | Type de licence     | Nb. licences | Conformité      | Notes                          |
+|-------------|------------------|----------------|---------------------|--------------|-----------------|---------------------------------|
+| Microsoft   | Windows Server   | 2019 Datacenter| Licence volume      | 5            | ✅ Conforme     | Utilisé sur serveurs HP         |
+| Canonical   | Ubuntu Server    | 22.04 LTS      | Open source GPL     | N/A          | ✅ Conforme     | Utilisé sur serveurs Dell       |
+| VMware      | ESXi             | 7.0            | Licence commerciale | 3            | ⚠️ À renouveler | Utilisé sur Serveurs HP et Dell |
 
 ---
 
