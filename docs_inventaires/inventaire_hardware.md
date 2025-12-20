@@ -21,7 +21,6 @@ Chaque fiche est formatée pour être compatible avec GLPI et audit‑ready.
 |-----------|-----------------|------------------|-------------|------|----------|--------------|------------|
 | Dell      | OptiPlex 7090   | Windows 11 Pro   | i5-11400    | 16 Go| 512 Go SSD | Bureau Paris | En service |
 | Lenovo    | ThinkPad T14    | Ubuntu 22.04 LTS | Ryzen 5 Pro | 16 Go| 512 Go SSD | Télétravail  | En service |
-| HP        | EliteBook 840   | Windows 10 Pro   | i7-10610U   | 16 Go| 256 Go SSD | Bureau Lyon  | En service |
 
 ---
 
