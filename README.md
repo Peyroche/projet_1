@@ -14,20 +14,7 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 
 ## Arborescence de l'organisation
 
-Direction Générale
-│
-├── Audit Interne (fonction indépendante)
-│
-└── Employés MDF
-     ├── Chef de projet
-     ├── Équipe technique
-     │    ├── Administrateur système
-     │    ├── Technicien N2
-     │    └── Responsable licences
-     ├── Équipe support
-     │    ├── Technicien N1
-     │  
-     └── Utilisateurs métier
+![Ajout](images/Arborescence.png)
 
 Le schéma de l'organisation illustre les interactions suivantes :
 - Les utilisateurs métier remontent leurs besoins/incidents vers l’équipe support.
