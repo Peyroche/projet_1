@@ -25,7 +25,7 @@ ainsi que leur correspondance avec les profils GLPI.
 | Alfred Benoit    | Administrateur Systèmes  | Equipe technique        | GLPI_Admins             | Configure GLPI, gère AD et sauvegardes         |
 | Sophie Martin    | Technicien N1            | Equipe support          | GLPI_Tech_N1            | Réinitialise mots de passe, installe logiciels |
 | Karim Benali     | Technicien N2            | Equipe technique        | GLPI_Tech_N2            | Résout incidents réseau, escalade vers N3      |
-| Antony Robert    | Utilisateur métier       | Utilisateur métier      | GLPI_Users              | Déclare un ticket via portail GLPI             |
+| Antony Robert    | Utilisateur              | Utilisateurs            | GLPI_Users              | Déclare un ticket via portail GLPI             |
 | Marc Leroy       | Auditeur interne         | Audit interne           | GLPI_Audit              | Vérifie conformité inventaire/licences         |
 | Claire Dubois    | Responsable licences     | Equipe technique        | GLPI_Licences           | Suit les licences Adobe, Microsoft, VMware     |
 
