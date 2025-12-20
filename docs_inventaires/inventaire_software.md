@@ -10,9 +10,9 @@ Chaque fiche inclut les informations essentielles : éditeur, version, type de l
 
 | Éditeur     | Produit          | Version        | Type de licence     | Nb. licences | Conformité      | Notes                            |
 |-------------|------------------|----------------|---------------------|--------------|-----------------|----------------------------------|
-| Microsoft   | Windows Server   | 2019 Datacenter| Licence volume      | 5            | ✅ Conforme     | Utilisé sur serveur HP           |
-| Canonical   | Ubuntu Server    | 22.04 LTS      | Open source GPL     | N/A          | ✅ Conforme     | Utilisé sur serveur Dell         |
-| VMware      | ESXi             | 7.0            | Licence commerciale | 3            | ⚠️ À renouveler | Utilisé sur serveurs (HP et Dell)|
+| Microsoft   | Windows Server   | 2019 Datacenter| Licence volume      | 1            | ✅ Conforme     | Utilisé sur serveur HP           |
+| VMware      | ESXi             | 7.0            | Licence commerciale | 2            | ✅ Conforme     | Utilisé sur serveur HP           |
+| Microsoft   | Windows pro      | 11             | Licence volume      | 6            | ✅ Conforme     | Utilisé sur ordinateurs          |                
 
 ---
 
@@ -20,26 +20,7 @@ Chaque fiche inclut les informations essentielles : éditeur, version, type de l
 
 | Éditeur     | Produit             | Version         | Type de licence | Nb. licences | Conformité | Notes |
 |-------------|--------------------|-----------------|-----------------|--------------|------------|-------|
-| Microsoft   | Office 365          | E3              | SaaS abonnement | 50           | ✅ Conforme | Comptes synchronisés Azure AD |
-| LibreOffice | LibreOffice Suite   | 7.6             | Open source LGPL| N/A          | ✅ Conforme | Alternative open source |
-
----
-
-## Logiciels créatifs
-
-| Éditeur     | Produit             | Version         | Type de licence | Nb. licences | Conformité | Notes |
-|-------------|--------------------|-----------------|-----------------|--------------|------------|-------|
-| Adobe       | Creative Cloud      | 2025            | SaaS abonnement | 10           | ✅ Conforme | Utilisé par l’équipe design |
-| GIMP        | GIMP                | 2.10            | Open source GPL | N/A          | ✅ Conforme | Alternative open source |
-
----
-
-## Collaboration et communication
-
-| Éditeur     | Produit             | Version         | Type de licence | Nb. licences | Conformité | Notes |
-|-------------|--------------------|-----------------|-----------------|--------------|------------|-------|
-| Slack       | Slack Standard      | Cloud SaaS      | Abonnement mensuel | 20        | ✅ Conforme | Utilisé par l’équipe projet |
-| Microsoft   | Teams               | Inclus Office 365 | SaaS abonnement | 50        | ✅ Conforme | Intégré à Office 365 |
+| Microsoft   | Office 365          | E3              | SaaS abonnement | 6           | ✅ Conforme | Comptes synchronisés Azure AD |
 
 ---
 
