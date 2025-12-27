@@ -17,9 +17,9 @@ Ce document présente l’inventaire des logiciels gérés sur GLPI.
 
 ## Applications bureautiques
 
-| Éditeur     | Produit             | Version         | Type de licence | Nb. licences | Conformité | Notes |
+| Nom         | Editeur            | Version         | Type de licence | Nb. licences | Conformité | Notes |
 |-------------|--------------------|-----------------|-----------------|--------------|------------|-------|
-| Microsoft   | Office 365          | E3              | SaaS abonnement | 6           | ✅ Conforme | Comptes synchronisés Azure AD |
+| Office 365  | Microsoft          | E3              | SaaS abonnement | 6           | ✅ Conforme | Comptes synchronisés Azure AD |
 
 ---
 
