@@ -1,19 +1,27 @@
 # Projet 1 : Gestion du parc informatique MDF
 
-## Contexte
-Dans le cadre d'un projet fictif, une gestion du parc informatique a été réalisé pour la société MDF. 
+## Description
+Dans le cadre d'un projet fictif, une gestion du parc informatique a été réalisé pour la société MDF.
+
+---
 
 ## Présentation Entreprise
-MDF est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client.  
+MDF est une société spécialisée dans l’externalisation commerciale et marketing, fondée en 2005 et basée à Asnières-sur-Seine (Île-de-France). Elle accompagne les grandes marques et les PME dans le développement de leur présence sur le marché, en proposant des solutions terrain et digitales adaptées aux besoins de chaque client. 
+
+---
 
 ## Objectif du projet
 Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
+
+---
 
 ## Missions réalisées
 - Centraliser l’inventaire matériel et logiciel,
 - Gérer les habilitations,
 - Suivre et résoudre les incidents,
 - Assurer la sauvegarde.
+
+---
 
 ## Arborescence de l'organisation
 

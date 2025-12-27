@@ -1,10 +1,11 @@
 # Inventaire des habilitations
 
+## Description
 Ce document décrit les groupes et utilisateurs utilisés pour la gestion des habilitations sur GLPI.
 
 ---
 
-## Groupes
+## Groupes employés MDF
 
 | Groupes          | Descriptions                                                  |
 |------------------|---------------------------------------------------------------|
@@ -17,7 +18,7 @@ Ce document décrit les groupes et utilisateurs utilisés pour la gestion des ha
 
 ---
 
-## Utilisateurs
+## Employés MDF
  
 | Identifiants            | Groupe(s)                |
 |-------------------------|--------------------------|
