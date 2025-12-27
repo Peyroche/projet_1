@@ -1,18 +1,17 @@
 # Inventaire Software
 
 ## Description
-Ce document présente l’inventaire des logiciels gérés dans la CMDB.  
-Chaque fiche inclut les informations essentielles : éditeur, version, type de licence, nombre d’utilisateurs et état de conformité.
+Ce document présente l’inventaire des logiciels gérés sur GLPI.  
 
 ---
 
 ## Systèmes d’exploitation
 
-| Éditeur     | Produit          | Version        | Type de licence     | Nb. licences | Conformité      | Notes                            |
-|-------------|------------------|----------------|---------------------|--------------|-----------------|----------------------------------|
-| Microsoft   | Windows Server   | 2019 Datacenter| Licence volume      | 1            | ✅ Conforme     | Utilisé sur serveur HP           |
-| VMware      | ESXi             | 7.0            | Licence commerciale | 2            | ✅ Conforme     | Utilisé sur serveur HP           |
-| Microsoft   | Windows pro      | 11             | Licence volume      | 6            | ✅ Conforme     | Utilisé sur ordinateurs          |                
+| Nom           | Editeur          | Version        | Type de licence     | Nb. licences | Conformité      | Notes                            |
+|-------------  |------------------|----------------|---------------------|--------------|-----------------|----------------------------------|
+| Windows Server| Microsoft        | 2019 Datacenter| Licence volume      | 1            | ✅ Conforme     | Utilisé sur serveur HP           |
+| ESXi          | VMware           | 7.0            | Licence commerciale | 2            | ✅ Conforme     | Utilisé sur serveur HP           |
+| Windows pro   | Microsoft        | 11             | Licence volume      | 6            | ✅ Conforme     | Utilisé sur ordinateurs          |                
 
 ---
 

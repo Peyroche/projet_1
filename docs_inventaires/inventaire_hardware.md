@@ -1,33 +1,39 @@
 # Inventaire Hardware
 
 ## Description
-Ce document présente l’inventaire matériel géré dans la CMDB.  
-Chaque fiche est formatée pour être compatible avec GLPI et audit‑ready.
+Ce document présente l’inventaire matériel géré sur GLPI.  
 
 ---
 
 ## Serveurs
 
-| Fabricant | Modèle           | OS installé                 | CPU            | RAM     | Stockage | Localisation | État       |
+| Fabricant | Modèle           | Système d'exploitation      | CPU            | RAM     | Stockage | Lieu         | Statut     |
 |-----------|------------------|-----------------------------|----------------|---------|----------|--------------|------------|
 | HP        | ProLiant DL380   | Windows Server 2019 et ESXi | 2x Xeon Gold   | 128 Go  | 4x 2 To  | Bureau Paris | En service |
 
 ---
 
-## Postes de travail
+## Ordinateurs
 
-| Fabricant | Modèle           | OS installé     | CPU         | RAM  | Stockage   | Localisation | État       |
-|-----------|-----------------|------------------|-------------|------|------------|--------------|------------|
-| Dell      | OptiPlex 7090   | Windows 11 Pro   | i5-11400    | 16 Go| 512 Go SSD | Bureau Paris | En service |
-| Lenovo    | ThinkPad T14    | Windows 11 Pro   | Ryzen 5 Pro | 16 Go| 512 Go SSD | Bureau Paris | En service |
+| Fabricant | Modèle          | Système d'exploitation | CPU         | RAM  | Stockage   | Lieu         | Statut     |
+|-----------|-----------------|------------------------|-------------|------|------------|--------------|------------|
+| Dell      | OptiPlex 7090   | Windows 11 Pro         | i5-11400    | 16 Go| 512 Go SSD | Bureau Paris | En service |
+| Lenovo    | ThinkPad T14    | Windows 11 Pro         | Ryzen 5 Pro | 16 Go| 512 Go SSD | Bureau Paris | En service |
+ 
+---
+
+## Imprimante
+
+| Fabricant | Modèle       | Lieu         | Statut     |
+|-----------|--------------|--------------|------------|
+| HP        | LaserJet Pro | Bureau Paris | En service |
 
 ---
 
-## Périphériques
+## Matériels réseau
 
-| Type       | Fabricant | Modèle       | Localisation | État       |
+| Types      | Fabricant | Modèle       | Lieu         | Statut     |
 |------------|-----------|--------------|--------------|------------|
-| Imprimante | HP        | LaserJet Pro | Bureau Paris | En service |
 | Switch     | Cisco     | Catalyst 2960| Bureau Paris | En service |
 | Routeur    | Cisco     | ISR 4331     | Bureau Paris | En service |
 
