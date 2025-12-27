@@ -1,4 +1,4 @@
-# Projet 1 : Gestion du parc informatique MDF
+# Projet 1 : Gérer le parc informatique et Répondre aux incidents, aux demandes d’assistance et d’évolution
 
 ## Description
 Dans le cadre d'un projet fictif, une gestion du parc informatique a été réalisé pour la société MDF.
@@ -18,8 +18,8 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 ## Missions réalisées
 - Centraliser l’inventaire matériel et logiciel,
 - Gérer les habilitations,
-- Suivre et résoudre les incidents,
-- Assurer la sauvegarde.
+- Assurer la sauvegarde,
+- Suivre et résoudre les incidents.
 
 ---
 
@@ -27,7 +27,7 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 
 ![Ajout](images/Schema.png)
 
-Le schéma de l'organisation illustre les interactions suivantes :
+Ce schéma illustre les interactions suivantes :
 - Les utilisateurs remontent leurs besoins/incidents vers l’équipe support.
 - L’équipe support transmet les problèmes récurrents à l’équipe technique.
 - Le chef de projet coordonne l’ensemble et assure le lien avec la direction.
