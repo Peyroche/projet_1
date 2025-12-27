@@ -20,16 +20,16 @@ Ce document décrit les groupes et utilisateurs utilisés pour la gestion des ha
 
 ## Employés MDF
  
-| Identifiants            | Groupe(s)                |
-|-------------------------|--------------------------|
-| Administrateur Systèmes | GLPI_Admins              |
-| Technicien N2           | GLPI_Tech_N2             | 
-| Responsable licences    | GLPI_Licences            | 
-| Technicien N1           | GLPI_Tech_N1             | 
-| Commercial              | GLPI_Users               | 
-| Responsable marketing   | GLPI_Users               |      
-| Customer Success        | GLPI_Users               |
-| Stagiaire               | GLPI_Users               |
+| Identifiants            | Groupe(s)                | Profils par défaut           |
+|-------------------------|--------------------------|------------------------------|
+| Administrateur Systèmes | GLPI_Admins              | Super-Admin                  |
+| Technicien N2           | GLPI_Tech_N2             | Technician                   |
+| Responsable licences    | GLPI_Licences            | Observer                     |
+| Technicien N1           | GLPI_Tech_N1             | Technician                   |  
+| Commercial              | GLPI_Users               | Self-Service                 |
+| Responsable marketing   | GLPI_Users               | Self-Service                 |
+| Customer Success        | GLPI_Users               | Self-Service                 |
+| Stagiaire               | GLPI_Users               | Self-Service                 |
 
 ---
 
