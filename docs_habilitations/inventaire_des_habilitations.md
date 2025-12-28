@@ -7,7 +7,7 @@ Ce document décrit les groupes et utilisateurs utilisés pour la gestion des ha
 
 ## Groupes employés MDF
 
-| Groupes          | Descriptions                                                  |
+| GROUPES          | DESCRIPTIONS                                                  |
 |------------------|---------------------------------------------------------------|
 | GLPI_Admins      | Administrateurs du parc, droits complets sur GLPI             | 
 | GLPI_Tech_N1     | Techniciens support niveau 1 (tickets simples, comptes, apps) | 
@@ -20,7 +20,7 @@ Ce document décrit les groupes et utilisateurs utilisés pour la gestion des ha
 
 ## Employés MDF
  
-| Identifiants            | Groupe(s)                | Profils par défaut           |
+| IDENTIFIANTS            | GROUPE(S)                | PROFILS                      |
 |-------------------------|--------------------------|------------------------------|
 | Administrateur Systèmes | GLPI_Admins              | Super-Admin                  |
 | Technicien N2           | GLPI_Tech_N2             | Technician                   |

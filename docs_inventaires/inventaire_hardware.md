@@ -5,37 +5,30 @@ Ce document présente l’inventaire matériel géré sur GLPI.
 
 ---
 
-## Serveurs
-
-| Fabricant | Modèle           | Système d'exploitation      | CPU            | RAM     | Stockage | Lieu         | Statut     |
-|-----------|------------------|-----------------------------|----------------|---------|----------|--------------|------------|
-| HP        | ProLiant DL380   | Windows Server 2019 et ESXi | 2x Xeon Gold   | 128 Go  | 4x 2 To  | Bureau Paris | En service |
-
----
-
 ## Ordinateurs
 
-| Fabricant | Modèle          | Système d'exploitation | CPU         | RAM  | Stockage   | Lieu         | Statut     |
-|-----------|-----------------|------------------------|-------------|------|------------|--------------|------------|
-| Dell      | OptiPlex 7090   | Windows 11 Pro         | i5-11400    | 16 Go| 512 Go SSD | Bureau Paris | En service |
-| Lenovo    | ThinkPad T14    | Windows 11 Pro         | Ryzen 5 Pro | 16 Go| 512 Go SSD | Bureau Paris | En service |
- 
+| NOM        | STATUT      | FABRICANT |  TYPE       | MODELE          | LIEU        | SYSTEME D'EXPLOITATION      | PROCESSEUR    | RAM    | STOCKAGE   | 
+|------------|-------------|-----------|-------------|-----------------|-------------|-----------------------------|---------------|--------|------------|
+| Ordinateur | En service  | Dell      | Portable    | OptiPlex 7090   | Bureau 02   | Windows 11 Pro              | i5-11400      | 16 Go  | 512 Go SSD |  
+| Ordinateur | En service  | Lenovo    | Bureau      | ThinkPad T14    | Bureau 02   | Windows 11 Pro              | Ryzen 5 Pro   | 16 Go  | 512 Go SSD |
+| Serveur    | En service  | HP        | Virtuel     | ProLiant DL380  | Bureau 02   | Windows Server 2019 et ESXi | 2x Xeon Gold  | 128 Go | 4x 2 To    |
+
 ---
 
 ## Imprimante
 
-| Fabricant | Modèle       | Lieu         | Statut     |
-|-----------|--------------|--------------|------------|
-| HP        | LaserJet Pro | Bureau Paris | En service |
+| NOM        | STATUT      | FABRICANT | LIEU          |   TYPE       | MODELE          |
+|------------|-------------|-----------|---------------|--------------|-----------------|
+| Ordinateur | En service  |    HP     | Bureau 01     | Portable     | LaserJet Pro    |
 
 ---
 
 ## Matériels réseau
 
-| Types      | Fabricant | Modèle       | Lieu         | Statut     |
-|------------|-----------|--------------|--------------|------------|
-| Switch     | Cisco     | Catalyst 2960| Bureau Paris | En service |
-| Routeur    | Cisco     | ISR 4331     | Bureau Paris | En service |
+| NOM     |  STATUT      | FABRICANT  | LIEU       | MODELE        |
+|---------|--------------|------------|------------|---------------|
+| Switch  | En service   | Cisco      | Bureau 01  | Catalyst 2960 | 
+| Routeur |              | Cisco      | Bureau 01  | ISR 4331      |  
 
 ---
 
