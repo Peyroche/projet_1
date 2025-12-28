@@ -6,6 +6,7 @@ Ce document décrit les étapes utiliser pour l'installation de GLPI.
 ---
 
 ## Outils utilisés
+- Windows 64 bit
 - WampServer (PHP version 7.4.33)
 - GLPI version 10.0.6
 
