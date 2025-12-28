@@ -1,6 +1,6 @@
-# Projet 1 : Gérer le parc informatique et Répondre aux incidents, aux demandes d’assistance et d’évolution
+# Projet 1 : Gestion du parc informatique
 
-## Description
+## Contexte
 Dans le cadre d'un projet fictif, une gestion du parc informatique a été réalisé pour la société MDF.
 
 ---
@@ -18,8 +18,7 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 ## Missions réalisées
 - Centraliser l’inventaire matériel et logiciel,
 - Gérer les habilitations,
-- Assurer la sauvegarde,
-- Suivre et résoudre les incidents.
+- Assurer la sauvegarde.
 
 ---
 
