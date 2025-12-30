@@ -5,31 +5,46 @@ Ce document décrit les groupes et utilisateurs utilisés pour la gestion des ha
 
 ---
 
-## Groupes employés MDF
+## Groupes Globaux (GG) sur AD
+Ce sont les groupes qui représentent qui sont les utilisateurs.
 
-| GROUPES          | DESCRIPTIONS                                                  |
+| Groupe Global    | Rôles                                                         |
 |------------------|---------------------------------------------------------------|
-| GLPI_Admins      | Administrateurs du parc, droits complets sur GLPI             | 
-| GLPI_Tech_N1     | Techniciens support niveau 1 (tickets simples, comptes, apps) | 
-| GLPI_Tech_N2     | Techniciens support niveau 2 (réseau, serveurs, escalades)    | 
-| GLPI_Users       | Utilisateurs finaux, accès au portail GLPI                    | 
-| GLPI_Audit       | Auditeurs internes/externes, accès en lecture seule           | 
-| GLPI_Licences    | Gestionnaires des licences logicielles                        | 
+| GG_GLPI_Admins   | Administrateurs du parc, droits complets sur GLPI             | 
+| GG_GLPI_Tech_N1  | Techniciens support niveau 1 (tickets simples, comptes, apps) | 
+| GG_GLPI_Tech_N2  | Techniciens support niveau 2 (réseau, serveurs, escalades)    | 
+| GG_GLPI_Users    | Utilisateurs finaux, accès au portail GLPI                    | 
+| GG_GLPI_Audit    | Auditeurs internes/externes, accès en lecture seule           | 
+| GG_GLPI_Licences | Gestionnaires des licences logicielles                        | 
 
 ---
 
-## Employés MDF
- 
-| IDENTIFIANTS            | GROUPE(S)                | PROFILS                      |
+## Groupes Domaine Local (DLG) sur AD
+Ce sont les groupes qui représentent ce à quoi les utilisateurs ont accès. 
+
+|  Groupes Domaine Local  | Droit attribué                          |
+|-------------------------|-----------------------------------------|
+| DLG_GLPI_Admins_Full    | Accès complet à GLPI                    |
+| DLG_GLPI_Tech_N1_RW     | Accès technicien N1 (tickets simples)   |
+| DLG_GLPI_Tech_N2_RW     | Accès technicien N2 (réseau, serveurs)  |
+| DLG_GLPI_Audit_RO       | Accès lecture seule                     |  
+| DLG_GLPI_Licences_RW    | Gestion des licences                    |
+| DLG_GLPI_Users_Portal   | Accès portail utilisateur               |
+
+---
+
+## Attribution des droits dans GLPI
+
+|  Groupe Domaine Local   | Groupes Domaine Local    | Profils
 |-------------------------|--------------------------|------------------------------|
-| Administrateur Systèmes | GLPI_Admins              | Super-Admin                  |
-| Technicien N2           | GLPI_Tech_N2             | Technician                   |
-| Responsable licences    | GLPI_Licences            | Observer                     |
-| Technicien N1           | GLPI_Tech_N1             | Technician                   |  
-| Commercial              | GLPI_Users               | Self-Service                 |
-| Responsable marketing   | GLPI_Users               | Self-Service                 |
-| Customer Success        | GLPI_Users               | Self-Service                 |
-| Stagiaire               | GLPI_Users               | Self-Service                 |
+| Administrateur Systèmes | DLG_GLPI_Admins_Full     | Super-Admin                  |
+| Technicien N2           | DLG_GLPI_Tech_N2_RW      | Technician                   |
+| Responsable licences    | DLG_GLPI_Licences_RW     | Observer                     |
+| Technicien N1           | DLG_GLPI_Tech_N1_RW      | Technician                   |  
+| Commercial              | DLG_GLPI_Users_Portal    | Self-Service                 |
+| Responsable marketing   | DLG_GLPI_Users_Portal    | Self-Service                 |
+| Customer Success        | DLG_GLPI_Users_Portal    | Self-Service                 |
+| Stagiaire               | DLG_GLPI_Users_Portal    | Self-Service                 |
 
 ---
 
