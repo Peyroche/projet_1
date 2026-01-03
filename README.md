@@ -24,7 +24,7 @@ Mettre en place une gestion efficace et sécurisée du parc informatique de MDF.
 
 ## Arborescence de l'organisation
 
-![Ajout](images/Schema.png)
+![Ajout](Schema.png)
 
 Ce schéma illustre les interactions suivantes :
 - Les utilisateurs remontent leurs besoins/incidents vers l’équipe support.
