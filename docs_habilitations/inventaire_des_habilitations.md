@@ -48,6 +48,10 @@ Ce sont les groupes qui représentent ce à quoi les utilisateurs ont accès.
 
 ---
 
+[Voir le document PDF](Habilitation_sur_windows_server.pdf)
+
+---
+
 ## Notes
 - Les données sont fictives et destinées à la démonstration.
 - Les fiches sont formatées pour être compatibles avec GLPI.
