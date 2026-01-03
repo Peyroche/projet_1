@@ -32,7 +32,7 @@ Un groupe Domaine local (Domain Local Group) sert à : attribuer des droits NTFS
 
 ---
 
-[Voir le document PDF](Habilitation_sur_windows_server.pdf)
+[Voir le document PDF](Fiche_2.pdf)
 
 ---
 
