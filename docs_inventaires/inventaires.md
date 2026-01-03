@@ -1,15 +1,15 @@
-# Inventaires Hardware & Software
+# INVENTAIRES HARDWARE & SOFTWARE
 
 ## Description
 Ce document présente l’inventaire matériels et logiciels géré sur GLPI.  
 
 ---
 
-## Inventaire Hardware
+## INVENTAIRE HARDWARE
 
 ## Ordinateurs
 
-| Nom        | Statut       | Fabricant |  Type       | Modèle          | Lieu        | Système d'exploitation      | Processeur    | RAM    | Stockage   | 
+| Nom        | Statut       | Fabricant |  Type       | Modèle          | Lieu        | OS                          | Processeur    | RAM    | Stockage   | 
 |------------|--------------|-----------|-------------|-----------------|-------------|-----------------------------|---------------|--------|------------|
 | Ordinateur | En service   | Dell      | Portable    | OptiPlex 7090   | Bureau 02   | Windows 11 Pro              | i5-11400      | 16 Go  | 512 Go SSD |  
 | Ordinateur | En service   | Lenovo    | Bureau      | ThinkPad T14    | Bureau 02   | Windows 11 Pro              | Ryzen 5 Pro   | 16 Go  | 512 Go SSD |
@@ -30,7 +30,7 @@ Ce document présente l’inventaire matériels et logiciels géré sur GLPI.
 
 ---
 
-## Inventaire Software
+## INVENTAIRE SOFTWARE
 
 ## Systèmes d’exploitation
 

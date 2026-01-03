@@ -1,4 +1,4 @@
-# Inventaire des habilitations
+# INVENTAIRES DES HABILITATIONS
 
 ## Description
 Ce document décrit les groupes utilisés pour la gestion des habilitations.
