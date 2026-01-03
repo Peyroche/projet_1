@@ -21,7 +21,7 @@ Un groupe GLPI sert à : affecter des tickets, organiser les équipes, filtrer l
 ## Groupes Domaine Local (DLG)
 Un groupe Domaine local (Domain Local Group) sert à : attribuer des droits NTFS sur un dossier partagé, attribuer des droits sur une imprimante, attribuer des droits sur une ressource du domaine, gérer les autorisations locales sur un serveur membre.
 
-| Groupes Domaine Local  |  Groupe Global          | Employés MDF                                                  | Droit attribués sur AD  |
+| Groupes Domaine Local  |  Groupes Global         | Employés MDF                                                  | Droit attribués sur AD  |
 |------------------------|-------------------------|---------------------------------------------------------------|-------------------------|
 | DLG_RH                 |  GG_RH                  | Chef de projet                                                | Full                    |
 | DLG_Admins             |  GG_Admins              | Administrateur système                                        | Full                    |
